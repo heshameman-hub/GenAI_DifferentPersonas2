@@ -1,0 +1,2 @@
+Rewrite this in Shakespearean English:
+'AI helps doctors diagnose diseases faster.'

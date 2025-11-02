@@ -1,0 +1,1 @@
+Generate a template email for requesting feedback after a job interview.

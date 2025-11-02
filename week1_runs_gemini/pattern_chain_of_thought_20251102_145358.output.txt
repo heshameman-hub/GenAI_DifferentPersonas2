@@ -1,0 +1,43 @@
+This problem requires calculating the average speed, which is defined as the total distance traveled divided by the total time taken.
+
+$$\text{Average Speed} = \frac{\text{Total Distance}}{\text{Total Time}}$$
+
+---
+
+## Step 1: Calculate the distance traveled in the first segment
+
+The train travels at $60 \text{ km/h}$ for $2 \text{ hours}$.
+
+$$\text{Distance}_1 = \text{Speed} \times \text{Time}$$
+$$\text{Distance}_1 = 60 \text{ km/h} \times 2 \text{ h} = 120 \text{ km}$$
+
+## Step 2: Calculate the distance traveled in the second segment
+
+The train travels at $90 \text{ km/h}$ for $1 \text{ hour}$.
+
+$$\text{Distance}_2 = \text{Speed} \times \text{Time}$$
+$$\text{Distance}_2 = 90 \text{ km/h} \times 1 \text{ h} = 90 \text{ km}$$
+
+## Step 3: Calculate the total distance traveled
+
+Add the distances from both segments.
+
+$$\text{Total Distance} = \text{Distance}_1 + \text{Distance}_2$$
+$$\text{Total Distance} = 120 \text{ km} + 90 \text{ km} = 210 \text{ km}$$
+
+## Step 4: Calculate the total time taken
+
+Add the time from both segments.
+
+$$\text{Total Time} = 2 \text{ hours} + 1 \text{ hour} = 3 \text{ hours}$$
+
+## Step 5: Calculate the average speed
+
+Divide the total distance by the total time.
+
+$$\text{Average Speed} = \frac{\text{Total Distance}}{\text{Total Time}}$$
+$$\text{Average Speed} = \frac{210 \text{ km}}{3 \text{ hours}} = 70 \text{ km/h}$$
+
+---
+
+**Answer:** The average speed of the train is **70 km/h**.

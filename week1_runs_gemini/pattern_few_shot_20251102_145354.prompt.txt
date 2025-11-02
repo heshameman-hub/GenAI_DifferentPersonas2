@@ -1,0 +1,4 @@
+Translate English to French.
+English: Good morning → French: Bonjour
+English: Thank you → French: Merci
+English: How are you? →

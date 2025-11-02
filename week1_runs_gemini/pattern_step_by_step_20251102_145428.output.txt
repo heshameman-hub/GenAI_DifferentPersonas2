@@ -1,0 +1,33 @@
+Here is a step-by-step reasoning of what happens to water when it is heated to $100^\circ\text{C}$ at sea level:
+
+### Step 1: Define the Initial Conditions
+*   **Substance:** Water ($\text{H}_2\text{O}$).
+*   **Initial State:** Likely liquid (unless specified otherwise, heating implies starting below the boiling point).
+*   **Temperature Reached:** $100^\circ\text{C}$.
+*   **Pressure:** Standard atmospheric pressure at sea level (approximately 1 atmosphere or 101.325 kPa).
+
+### Step 2: Define Key Physical Constants (Boiling Point)
+*   The **boiling point** is the temperature at which a substance changes from a liquid to a gas (vapor) throughout the bulk of the liquid.
+*   For pure water, the boiling point at standard atmospheric pressure (sea level) is **$100^\circ\text{C}$ ($212^\circ\text{F}$)**.
+
+### Step 3: Analyze the Process Leading Up to $100^\circ\text{C}$
+*   As the water is heated from room temperature (e.g., $20^\circ\text{C}$) up toward $100^\circ\text{C}$, the liquid water absorbs thermal energy.
+*   This absorbed energy increases the kinetic energy of the water molecules, causing the temperature of the liquid to rise.
+
+### Step 4: Analyze the Event at $100^\circ\text{C}$
+*   When the water reaches $100^\circ\text{C}$ at sea level pressure, the vapor pressure of the liquid water becomes equal to the external atmospheric pressure.
+*   This condition initiates **boiling**.
+
+### Step 5: Describe the Observable Phenomenon (Boiling)
+*   The water undergoes a phase transition (vaporization).
+*   Large bubbles of water vapor form throughout the volume of the liquid, rise quickly to the surface, and burst, releasing steam (gaseous water) into the atmosphere.
+
+### Step 6: Determine the Final State
+*   If heating continues past the point where $100^\circ\text{C}$ is reached, the temperature of the water **will not rise** above $100^\circ\text{C}$ until **all** the liquid water has converted into steam.
+*   All the added heat energy (the latent heat of vaporization) is used solely to break the intermolecular bonds and complete the phase change.
+
+---
+
+### Conclusion
+
+When water is heated to $100^\circ\text{C}$ at sea level pressure, the water **begins to boil** (or is actively boiling). It undergoes a phase change from liquid water to gaseous water (steam).

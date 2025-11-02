@@ -1,0 +1,11 @@
+This is a geometric sequence where each number is found by multiplying the previous number by 2.
+
+*   $2 \times 2 = 4$
+*   $4 \times 2 = 8$
+*   $8 \times 2 = 16$
+
+To find the next number:
+
+*   $16 \times 2 = 32$
+
+The number that comes next is **32**.
